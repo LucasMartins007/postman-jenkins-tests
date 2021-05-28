@@ -1,0 +1,14 @@
+{
+  "name": "teste_postmen",
+  "version": "1.0.0",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "teste-postman": "newman run tests/ClinicaAPIGestaoV3.postman_collection.json"
+  },
+  "author": "lucasmartins",
+  "dependencies": {
+    "newman": "^5.2.3"
+  }
+}
