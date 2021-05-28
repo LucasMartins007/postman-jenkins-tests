@@ -1,6 +1,7 @@
 {
   "name": "teste_postmen",
   "version": "1.0.0",
+  "description": "Testes com postman",
   "directories": {
     "test": "tests"
   },
